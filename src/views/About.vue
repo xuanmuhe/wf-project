@@ -1,6 +1,6 @@
 <template>
   <div class="about">
     <h1>This is an about page</h1>
-    <!-- sdf -->
+    <h2>ss</h2>
   </div>
 </template>
